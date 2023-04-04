@@ -3,8 +3,8 @@
 ## 项目说明
 本项目研发时默认为支持多商户的支付系统，以下是原系统的介绍  
 支持多商户的不出售(我自己还要盈利)，只定制单商户使用的，需要自己买服务器部署
-定制联系方式(打开需要梯子)：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)
-项目语言：nodejs
+定制联系方式(打开需要梯子)：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)  
+项目语言：nodejs  
 ![image](https://user-images.githubusercontent.com/129872486/229836409-2855f307-235c-4128-b504-404777bcd961.png)
 ![image](https://user-images.githubusercontent.com/129872486/229836665-8ab0a7bd-9cd9-4d46-9c1c-03c57526ca6a.png)
 ![image](https://user-images.githubusercontent.com/129872486/229836778-0b46368a-da93-46f0-af75-a32364a0d09c.png)
