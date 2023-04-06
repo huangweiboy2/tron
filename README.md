@@ -4,9 +4,14 @@
 
 ## Project explantion
 AT the beginning of this project,we designed it to support multi merchant's use.  
-But to protect the benefits of our team,there offer bespoke system which only support single merchant use.  
-Contact me to get your bespoke system：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)  
-Programing Langurage：nodejs  
+You can change it to signal merchant's use then it will cost fewer fee every transaction.  
+Contact me ：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)  
+Programing Langurage：nodejs,Support system: win/linux/macos  
+  
+## Compile
+```js
+npm run pkg
+```
   
 ![image](https://user-images.githubusercontent.com/129872486/229836409-2855f307-235c-4128-b504-404777bcd961.png)
 ![image](https://user-images.githubusercontent.com/129872486/229836665-8ab0a7bd-9cd9-4d46-9c1c-03c57526ca6a.png)
@@ -38,12 +43,3 @@ Auto USDT collection will take 3-4 minutes to wait result then notify to the set
 - When auto service failed,there has privatekey to collect USDT by self,ensure the security of funds.
 - Auto transfer rest TRX to collection adderss.
 - Auto Swap USDT to TRX to replenish TRX's consumption.
-
-## Other projects
----
-### telegram auto swap robot
-Auto swap USDT to TRX,or TRX to USDT.  
-Set the feerate by yourself to profit.  
-When your addres receive tokens,robot auto caculate and swap then send back targe tokens to the sender.   
-For more profit,you can rent energy from tron.  
-Contact me to customize your robot：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)
