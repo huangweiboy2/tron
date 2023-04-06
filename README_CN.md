@@ -7,6 +7,7 @@
 可以自己改成单用户使用的，这样手续费很低，需要自己买服务器部署  
 联系方式(打开需要梯子)：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)  
 项目语言：nodejs，支持win、linux、macos  
+运行之前请正确设置privatekey  
 
 ## 编译
 ```js
