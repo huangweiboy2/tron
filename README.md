@@ -7,6 +7,7 @@ AT the beginning of this project,we designed it to support multi merchant's use.
 You can change it to signal merchant's use then it will cost fewer fee every transaction.  
 Contact me ：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)  
 Programing Langurage：nodejs,Support system: win/linux/macos  
+Please set right privatekey befor run it.  
   
 ## Compile
 ```js
