@@ -4,9 +4,14 @@
 
 ## 项目说明
 本项目研发时默认为支持多商户的支付系统，以下是原系统的介绍  
-支持多商户的不出售(我自己还要盈利)，只定制单商户使用的，需要自己买服务器部署  
-定制联系方式(打开需要梯子)：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)  
-项目语言：nodejs  
+可以自己改成单用户使用的，这样手续费很低，需要自己买服务器部署  
+联系方式(打开需要梯子)：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)  
+项目语言：nodejs，支持win、linux、macos  
+
+## 编译
+```js
+npm run pkg
+```
   
 ![image](https://user-images.githubusercontent.com/129872486/229836409-2855f307-235c-4128-b504-404777bcd961.png)
 ![image](https://user-images.githubusercontent.com/129872486/229836665-8ab0a7bd-9cd9-4d46-9c1c-03c57526ca6a.png)
@@ -48,16 +53,3 @@ USDT归集结果通知
 本服务每次归集成功，收取1U额外手续费，大于300U则收取1%额外手续费  
 若新钱包无法支付手续费，则自动归集会失败，且不会收取任何费用  
 用户自行归集时，本服务不消耗任何资源，因此也不收取任何相关费用
-
-### 如何免除额外手续费
-可联系我定制私人专用的服务端，自行提供手续费地址来支撑TRX消耗并固定归集地址  
-整个过程只需一次智能合约：把新地址的U转账给固定的归集地址，大幅减少基础手续费  
-私人定制的服务端需要商户自己购买服务器来运行，且由于只为自用，故无需额外手续费  
-由于手续费地址需要向新地址转TRX，所以需要提供手续费地址的私钥，归集地址无需私钥  
-定制联系方式(打开需要梯子)：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)
-
-## 其他项目
----
-### telegram自动兑币机器人
-tron网络 USDT2TRX、TRX2USDT，无需额外准备大量USDT/TRX，设置费率后，收到U/T便自动扣除手续费并调用SunSwap进行闪兑  
-通过租用足够的能量以及设置足够的费率谋取差价，以量换利，定制联系方式(打开需要梯子)：[https://t.me/AutoUSDT2TRX0](https://t.me/AutoUSDT2TRX0)
