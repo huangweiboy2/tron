@@ -43,3 +43,7 @@ Auto USDT collection will take 3-4 minutes to wait result then notify to the set
 - When auto service failed,there has privatekey to collect USDT by self,ensure the security of funds.
 - Auto transfer rest TRX to collection adderss.
 - Auto Swap USDT to TRX to replenish TRX's consumption.
+
+## Support me
+![欧易_1680753701856](https://user-images.githubusercontent.com/129872486/230269179-73009271-2893-4f5b-a621-92ee2e77a21a.jpg)
+TRGefN4fZXTwSLPV2Fm69ESKrsHS2KbqVs
