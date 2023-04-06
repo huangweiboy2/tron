@@ -1,0 +1,20 @@
+{
+  "name": "TRC20服务",
+  "version": "2.3.1",
+  "description": "Tron USDT TRC20 服务 API文档",
+  "title": "Tron USDT TRC20 服务",
+  "forceLanguage": "zh-cn",
+  "template": {
+    "withCompare": false,
+    "withGenerator": false
+  },
+  "header": {
+    "title": "服务简介",
+    "filename": "public/header.md"
+  },
+  "footer": {
+    "title": "其他说明",
+    "filename": "public/footer.md"
+  },
+  "order": [ "生成新钱包", "查询钱包余额", "手动归集" ]
+}
